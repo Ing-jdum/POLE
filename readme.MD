@@ -3,7 +3,8 @@
 #### Universidad de Sevilla
 #### John Urena
 
-Este repositorio contiene el entregable final para la asignatura "Semántica Para Ciencia del Dato" del Máster Universitario en Lógica Computacional e Inteligencia Artificial de la Universidad de Sevilla. Los resultados detallados se encuentran en el documento "Memoria de Análisis al Dataset POLE con Neo4j y Scikit-learn".
+Este repositorio contiene el entregable final para la asignatura "Semántica Para Ciencia del Dato" del Máster Universitario en Lógica Computacional e Inteligencia Artificial de la Universidad de Sevilla. Los resultados detallados se encuentran en el documento [aqui](Proyecto_final_Semantica_para_la_ciencia_del_dato.pdf)
+.
 
 ### Instrucciones para Replicar los Resultados
 
