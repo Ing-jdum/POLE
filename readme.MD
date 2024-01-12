@@ -1,6 +1,4 @@
-# README
-
-## Entregable Final - Semántica Para Ciencia del Dato
+# Entregable Final - Semántica Para Ciencia del Dato
 ### Máster Universitario en Lógica Computacional e Inteligencia Artificial
 #### Universidad de Sevilla
 #### John Urena
